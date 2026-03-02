@@ -318,6 +318,10 @@ h1 {
   display: block;
 }
 
+.map-actions {
+  margin-top: 16px;
+}
+
 .map-wrap iframe {
   width: 100%;
   height: 380px;
